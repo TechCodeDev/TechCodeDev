@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/TechCodeDev/TechCodeDev/blob/main/1.png)
+![alt text]()
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechCodeDev)]
 
 
